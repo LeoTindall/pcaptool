@@ -1,0 +1,9 @@
+[package]
+name = "pcaptool"
+version = "0.1.0"
+authors = ["LeoTindall <lfstindall@gmail.com>"]
+
+[dependencies]
+pcap = "*"
+prettytable-rs = "^0.6"
+
